@@ -1,0 +1,136 @@
+Microsoft Certified: Azure Data Fundamentals
+Simulado Dp-900
+
+
+Questões traduzidas
+
+1.Azure SQL Database includes a managed backup service  SIM não
+2.Azure SQL Database has built-in high availability. SIM não
+3.Azure SQL Database can use Azure Defender. SIM não
+
+explicação
+Azure Defender provides security alerts and advanced threat protection for virtual machines, SQL databases, containers, web applications, your network, and more.
+
+tradução
+
+#1.O Banco de Dados SQL do Azure inclui um serviço de backup gerenciado SIM não
+#2.A Base de Dados Azure SQL tem alta disponibilidade incorporada. SIM não
+#3.O Banco de Dados SQL do Azure pode usar o Azure Defender. SIM não
+
+explicação
+O Azure Defender fornece alertas de segurança e proteção avançada contra ameaças para máquinas virtuais, bancos de dados SQL, contêineres, aplicativos Web, sua rede e outros.
+
+statements - Declarações
+
+4. You can use Azure Data Studio to query a microsoft SQL Sever big data cluster.  SIM não
+5. You Can use Microsoft SQL Server Management Studio (SSMS) to query an Azure Synapse Analytics data Warehouse.  SIM não
+6. You can use MySQL workbench to query Azure Database for MariaDB databases.  SIM não
+
+Tradução
+
+#4. Você pode usar o Azure Data Studio para consultar um cluster de big data do Microsoft SQL Server. SIM não
+#5. Você pode usar o Microsoft SQL Server Management Studio (SSMS) para consultar um Data Warehouse do Azure Synapse Analytics. SIM não
+6. Você pode usar o MySQL workbench para consultar o Banco de Dados do Azure para bancos de dados MariaDB. SIM não
+
+###############
+
+7. Platform as a service (PaaS) database offerings in Azure provide built-in high availability.  SIM não
+8. Platform as a service (PaaS) database offerings in Azure provide configurable scaling options. SIM não
+9. Platform as a service (PaaS) database offerings in Azure reduce the administrative overhead for managing hardware. SIM não
+
+Tradução
+
+#7. As ofertas de banco de dados de plataforma como serviço (PaaS) no Azure fornecem alta disponibilidade integrada. SIM não
+#8. As ofertas de banco de dados de plataforma como serviço (PaaS) no Azure fornecem opções de dimensionamento configuráveis. SIM não
+#9. As ofertas de banco de dados de plataforma como serviço (PaaS) no Azure reduzem a sobrecarga administrativa para gerenciar o hardware. SIM não
+
+###############
+
+10. You must apply operating system updates to Azure SQL databases regularly. sim NÃO
+11. You need a Microsoft 365 subscription to create an Azure SQL database.  sim NÃO
+12. You can use existing Microsoft SQL Server licenses to reduce the cost of Azure SQL databases. SIM não
+
+Tradução
+
+#10. Você deve aplicar regularmente as atualizações do sistema operacional aos bancos de dados SQL do Azure. sim NÃO
+#11. Você precisa de uma assinatura do Microsoft 365 para criar um banco de dados SQL do Azure. sim NÃO
+#12. Você pode usar licenças existentes do Microsoft SQL Server para reduzir o custo dos bancos de dados SQL do Azure. SIM não
+
+################
+
+13. Azure Data Studio can be used to query an Azure SQL database from a device that runs macOS.  SIM não
+14. Microsoft SQL Serve Management Studio (SSMS) enables users to create ande use SQL notebooks.  sim NÃO
+15. Azure Data Studio can be used to restore a database.  SIM não
+
+Tradução
+
+#13. O Azure Data Studio pode ser usado para consultar um banco de dados SQL do Azure de um dispositivo que executa o macOS. SIM não
+#14. O Microsoft SQL Serve Management Studio (SSMS) permite que os usuários criem e usem notebooks SQL. sim NÃO
+#15. O Azure Data Studio pode ser usado para restaurar um banco de dados. SIM não
+
+Explicação
+
+Caixa 1: Sim -
+O Azure Data Studio é uma ferramenta de banco de dados multiplataforma para profissionais de dados que usam plataformas de dados locais e na nuvem no Windows, macOS e Linux.
+Você pode usar o Azure Data Studio para se conectar a um servidor do Banco de Dados SQL do Azure. Em seguida, você executará instruções Transact-SQL (T-SQL) para criar e consultar bancos de dados SQL do Azure.
+
+Caixa 2: Não -
+O SQL Server Management Studio serve para configurar, gerenciar e administrar todos os componentes no Microsoft SQL Server, não para criar blocos de anotações SQL.
+Em vez disso, use o Azure Data Studio para criar o notebook SQL.
+
+Caixa 3: Sim -
+Você pode usar o Azure Data Studio para restaurar bancos de dados.
+
+################
+
+16. If you have a platform as a service (PaaS) database in Azure, you are responsible for applying operating system updates.  sim NÃO
+17. If you have a platform as a service (PaaS) database in Azure, backups are performed automatically.  SIM não
+18. If you have a platform as a service (PaaS) database in Azure, you are responsible for installation of the database engine.  sim NÃO
+
+tradução
+
+#16. Se você tiver um banco de dados de plataforma como serviço (PaaS) no Azure, será responsável por aplicar as atualizações do sistema operacional. sim NÃO
+#17. Se você tiver um banco de dados de plataforma como serviço (PaaS) no Azure, os backups serão executados automaticamente. SIM não
+#18. Se você tiver um banco de dados de plataforma como serviço (PaaS) no Azure, você será responsável pela instalação do mecanismo de banco de dados. sim NÃO
+
+explicação
+
+Caixa 1: Não -
+A Microsoft lida com todos os patches e atualizações do código SQL e do sistema operacional. Você não precisa gerenciar a infraestrutura subjacente.
+
+Caixa 2: Sim -
+O Banco de Dados SQL é um serviço totalmente gerenciado que possui alta disponibilidade interna, backups e outras operações comuns de manutenção.
+
+Caixa 3: Não -
+
+##################
+
+19. Platform as a service (PaaS) database offerings in Azure require less setup and configuration effort than infrastructure as a service (laaS) database offerings.  SIM não
+20. Platform as a service (PaaS) database offerings in Azure provide end users with the ability to control and update the operating system version.  sim NÃO
+21. All relation and non-relational platform as a service (PaaS) database offerings in Azure can be paused to reduce costs.  sim NÃO
+
+tradução
+
+#19. As ofertas de banco de dados de plataforma como serviço (PaaS) no Azure exigem menos esforço de instalação e configuração do que as ofertas de banco de dados de infraestrutura como serviço (laaS). SIM não
+#20. As ofertas de banco de dados de plataforma como serviço (PaaS) no Azure fornecem aos usuários finais a capacidade de controlar e atualizar a versão do sistema operacional. sim NÃO
+#21. Todas as ofertas de banco de dados de plataforma como serviço (PaaS) relacional e não relacional no Azure podem ser pausadas para reduzir custos. sim NÃO
+
+##################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
